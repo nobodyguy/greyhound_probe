@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "greyhound_library")(type "KiCad")(uri "${KIPRJMOD}/greyhound_library.kicad_sym")(options "")(descr ""))
+)
